@@ -8,7 +8,7 @@ int main()
 
      if(a==b && a==c)
      {
-        cout <<"all are same"; 
+        cout <<"all are same";
      }
      else if (a==b && b==c)
      {
